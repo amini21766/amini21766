@@ -89,7 +89,7 @@ src="https://img.shields.io/github/followers/amini21766?logo=github&style=for-th
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Status</b>
 
 <a href="http://www.github.com/amini21766"><img src="https://github-readme-stats.vercel.app/api?username=amini21766&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hamid's GitHub stats" /></a>
 
