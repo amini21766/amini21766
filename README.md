@@ -11,8 +11,8 @@ i there! I'm a passionate Front-End Developer skilled in crafting intuitive and 
 * 🤝  I'm open to collaborating on Eye-Hospital management system
 * ⚡  MERN ( MONGODB, Express, React.js, Node.js ) Speacilist
 
-<a href="https://www.github.com/Bismullah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Bismullah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/amini21766" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/amini21766?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -32,11 +32,11 @@ src="https://img.shields.io/github/followers/Bismullah?logo=github&style=for-the
 
 <a href="http://www.github.com/amini21766"><img src="https://github-readme-stats.vercel.app/api?username=amini21766&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hamid's GitHub stats" /></a>
 
-<a href="http://www.github.com/Bismullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bismullah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/amini21766"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amini21766&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Bismullah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bismullah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/amini21766"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=amini21766&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Bismullah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismullah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/amini21766" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amini21766&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
