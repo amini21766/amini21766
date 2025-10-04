@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-i there! I'm a passionate Front-End I’m Hamid Ahmad Amini, a passionate Full-Stack Web Developer with over 4 years of experience in building responsive and scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in crafting clean, user-friendly interfaces with React and Tailwind CSS, and developing secure, high-performance backends with Node.js and Express.js. I love solving real-world problems through code and continuously improving my skills to stay aligned with modern web technologies.
+I’m Hamid Ahmad Amini, a passionate Full-Stack Web Developer with over 4 years of experience in building responsive and scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in crafting clean, user-friendly interfaces with React and Tailwind CSS, and developing secure, high-performance backends with Node.js and Express.js. I love solving real-world problems through code and continuously improving my skills to stay aligned with modern web technologies.
 
 * ✉️  You can contact me at [amini21766@gmail.com](mailto:amini21766@gmail.com)
 * 🚀  I'm currently working on [Luilala](http://luilala.com)
