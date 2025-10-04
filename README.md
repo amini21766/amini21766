@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Hamid Ahmad Amini 👋
 
+## About Me 🚀
 
-**amini21766/amini21766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Sr. Software Enginee, always looking for new challenges and opportunities to grow and innovate. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building Open Source packages.
+- 👯 I’m looking to collaborate on Open Source Projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Technologies & Tools
 
+- **Back-End Development**: Node.js, Express.js, RESTful APIs, GraphQL, Authentication & Security.
+- **Front-End Development**: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design.
+- **Database Management**: MySQL, MongoDB (Schema Design, Queries, Aggregations).
+- * Deployment & Hosting**: AWS, Heroku, Netlify, Vercel, Render, Hostinger.
+- * Development Tools**: Git, GitHub, Postman, VS Code.
+  
+  
+
+## Connect with me 🌐
+
+- [LinkedIn](https://linkedin.com/in/shahghasi-adil)
+
+---
+⭐️ From [shahghasiadil](https://github.com/shahghasiadil)
