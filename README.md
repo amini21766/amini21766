@@ -1,7 +1,7 @@
 # Hello, I'm Hamid Ahmad Amini 👋
 
 
-Web Developer
+Software Engineer | Freelancer
 -------------
 
 I’m Hamid Ahmad Amini, a passionate Full-Stack Web Developer with over 4 years of experience in building responsive and scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in crafting clean, user-friendly interfaces with React and Tailwind CSS, and developing secure, high-performance backends with Node.js and Express.js. I love solving real-world problems through code and continuously improving my skills to stay aligned with modern web technologies.
