@@ -1,4 +1,4 @@
-# Hello, I'm Hamid Ahmad Amini 👋
+# Hello, I'm Hamid 👋
 
 
 Software Engineer | Freelancer
